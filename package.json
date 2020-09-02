@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/omerzam/koa-rest-api-template.git"
   },
   "author": "Omer Z",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/omerzam/koa-rest-api-template/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/omerzam/koa-rest-api-template#readme",
   "devDependencies": {
     "jest": "^26.0.1",
     "nodemon": "^2.0.4",
