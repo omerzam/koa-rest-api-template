@@ -1,4 +1,4 @@
-function validateBody(ctx) {
+function validateBody (ctx) {
   ctx.checkBody('ignoreBefore').optional().toDate()
   ctx.checkBody('maxReports').toInt()
   ctx.checkBody('ignoreCache').optional().toBoolean()
