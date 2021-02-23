@@ -34,7 +34,7 @@
     "koa-bunyan-logger": "^2.1.0",
     "koa-router": "^9.0.1",
     "koa-validate": "^1.0.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "pm2": "^4.4.1"
   }
 }
